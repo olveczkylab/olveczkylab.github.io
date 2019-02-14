@@ -11,6 +11,10 @@ joined: 2017
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `default@gmail.com`<br>
+<i class="fa fa-external-link"></i>
+[[Website]](google.com)
+[[Scholar]](https://scholar.google.com/)
+[[CV]](https://www.dropbox.com/)
 
 <hr>
 
@@ -20,5 +24,4 @@ joined: 2017
 <hr>
 
 ### Research Interests
-
 
