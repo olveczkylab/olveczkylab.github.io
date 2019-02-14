@@ -13,7 +13,7 @@ permalink: /people/
 <h3>Postdoctoral Fellows</h3>
  {% elsif item == 'pi' %}
 <h3>Principal Investigator</h3>
- {% elsif item == 'gradstudent' %}
+ {% elsif item == 'student' %}
 <h3>Graduate Students</h3>
  {% elsif item == 'visiting' %}
 <h3>Visiting Scholars</h3>
@@ -44,6 +44,6 @@ permalink: /people/
 {% endfor %}
 
 
-| Who are they | When were they here | Where they went |
+| Alumni | Position | Where are they now? |
 | :------------- |:-------------| :-----------|
-| Person | Position (Years) | Postdoc at Harvard
+| Risa Kawai | Graduate Student in Biophysics (2008-2014) | Data Scientist at Facebook
