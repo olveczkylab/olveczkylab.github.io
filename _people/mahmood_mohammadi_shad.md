@@ -1,6 +1,6 @@
 ---
 name: Mahmood Mohammadi Shad
-position: other
+position: others
 avatar: rat.jpg
 twitter:
 joined: 2017
