@@ -1,9 +1,9 @@
 ---
-name: Steffen Wolff
-position: postdoc
+name: Mahmood Mohammadi Shad
+position: other
 avatar: rat.jpg
 twitter:
-joined: 2016
+joined: 2017
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
