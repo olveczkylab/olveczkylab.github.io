@@ -1,6 +1,6 @@
 ---
 name: Kevin Mizes
-position: postdoc
+position: student
 avatar: rat.jpg
 twitter:
 joined: 2016
