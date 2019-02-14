@@ -30,17 +30,17 @@ You can add yourself to the page in `_people` folder just create file name `<fir
 
 ```
 ---
-name: Eva Dyer
-position: postdoc
-avatar: eva.jpg
-twitter:
-joined: 2014
+name: Lucy Lai
+position: student
+avatar: olveczkyrat.jpg
+twitter: 
+joined: 2019
 ---
 ```
 
 If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page. 
 
-For lab position, you can choose position from 4 classes including `postdoc`, `gradstudent`, `visiting`, `others` (so called Honorary members). Position will put you into section that you choose.
+For lab position, you can choose position from 4 classes including `postdoc`, `student`, `visiting`, `others` (so called Honorary members). Position will put you into section that you choose.
 
 ## Add new publications
 
