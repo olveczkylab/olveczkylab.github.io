@@ -1,9 +1,9 @@
 ---
-name: Steffen Wolff
+name: Naama Kadmon Harpaz
 position: postdoc
 avatar: rat.jpg
 twitter:
-joined: 2016
+joined: 2018
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
