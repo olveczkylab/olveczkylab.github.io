@@ -1,6 +1,6 @@
 ---
-name: Steffen Wolff
-position: postdoc
+name: Sasha Iuleu
+position: other
 avatar: rat.jpg
 twitter:
 joined: 2016
