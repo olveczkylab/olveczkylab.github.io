@@ -1,5 +1,5 @@
 ---
-name: Steffen Wolff
+name: Kevin Mizes
 position: postdoc
 avatar: rat.jpg
 twitter:
