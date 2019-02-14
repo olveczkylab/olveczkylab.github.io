@@ -10,12 +10,12 @@ permalink: /resources/
 
 {% for type in reference_types %}
 
-{% if type == 'scientists' %}
-### **For scientists**
+{% if type == 'science' %}
+### **Resources and data from our published papers**
  {% elsif type == 'students' %}
-### **For students, lab members**
+### **Resources for lab members**
  {% elsif type == 'discussion' %}
-### **Random bits of discussion**
+### **Other resources**
 {% endif %}
 
 <div class="content list">
