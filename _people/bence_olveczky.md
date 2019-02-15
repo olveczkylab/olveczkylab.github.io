@@ -7,7 +7,7 @@ twitter: BOlveczky
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Professor of Organismic and Evolutionary Biology, Harvard University_
+- _Professor of Organismic and Evolutionary Biology, Harvard University_ <br>
 MS in Mechanical Engineering, Technical University of Budapest, 1994 <br>
 MS in Biomedical Engineering, Imperial College London, 1996 <br>
 PhD in Neurobiology, Meister Lab, Harvard University, 2003 <br>
