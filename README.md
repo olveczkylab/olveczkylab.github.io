@@ -1,27 +1,7 @@
 # Ölveczky Lab page
 
 
-This is repository for Olveczky Lab page.
-
-
-## Add posts
-To add posts, navigate to the `_posts` folder. All posts are ordered by date and are written in [markdown format](https://www.markdowntutorial.com/). It's really easy to learn. You just have to headers before writing: `title`, `description`.
-
-An example:
-
-```
----
-title: CAPTURE
-description: stuff about CAPTURE that would be useful to the greater neuroscience community
----
-```
-
-## How to add posts
-
-
-- **Directly edit on Github**, you can simply go to `_posts` and click `New file` then put some markdown file e.g. `2016-02-03-post-name.md` and start writing blog post. Github also allows you to preview it so it's nice for people who don't want to clone the repo. 
-
-- **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
+This is the repository for Olveczky Lab page.
 
 
 ## New to the lab? Add yourself
@@ -32,15 +12,15 @@ You can add yourself to the page in `_people` folder just create file name `<fir
 ---
 name: Lucy Lai
 position: student
-avatar: olveczkyrat.jpg
+avatar: rat.jpg
 twitter: 
 joined: 2019
 ---
 ```
 
-If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page. 
+If you don't have information, just leave it blank. Upload your image to the `images/people` folder, and it will be displayed on the people page.
 
-For lab position, you can choose position from 4 classes including `postdoc`, `student`, `visiting`, `others` (so called Honorary members). Position will put you into section that you choose.
+For lab position, you can choose position from 4 classes including `postdoc`, `student`, `others`. Your position will put you into the corresponding section.
 
 ## Add new publications
 
