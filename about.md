@@ -11,7 +11,7 @@ Highlight some cool pictures or projects??
 
 ### Publications
 
-For PDFs of our work, visit our (publications)[/publications.html] page.
+For PDFs of our work, visit our [publications](/publications.html) page.
 
 
 ### Collaborators
