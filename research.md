@@ -16,4 +16,4 @@ For PDFs of our work, visit our [publications](/publications.html) page.
 
 ### Collaborators
 
-Here are some cool people we have collaborated with.
+We frequently collaborate with these people:
