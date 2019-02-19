@@ -24,22 +24,7 @@ permalink: /people/
 {% endif %}
 </div>
 
-<div class="content list people">
-  {% for profile in people_sorted %}
-    {% if profile.position contains item %}
-    <div class="list-item-people">
-      <p class="list-post-title">
-        {% if profile.avatar %}
-        <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
-        {% else %}
-        <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
-        {% endif %}
-        <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
-      </p>
-    </div>    
-    {% endif %}
-  {% endfor %}
-</div>
+
 <hr>
 {% endfor %}
 
@@ -53,7 +38,6 @@ permalink: /people/
 | Adam Kampff| Postdoctoral Fellow | Group Leader at the Champalimaud Foundation
 | Sharon Gobes | Postdoctoral Fellow | Assistant Professor at Wellesley College
 | Antoniu Fantana | Postdoctoral Fellow | Assistant Professor at Bowling Green State University
-
 | Risa Kawai | Graduate Student in Biophysics | Data Scientist at Facebook
 | Rajesh Poddar | Graduate Student in Neuroscience | Algorithmic Trader at Jump Trading
 | Raymond Ko | Graduate Student in OEB | Manager, Strategic Pricing and Marketing at T-Mobile
