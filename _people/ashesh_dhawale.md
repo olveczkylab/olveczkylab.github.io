@@ -1,7 +1,7 @@
 ---
 name: Ashesh Dhawale
 position: postdoc
-avatar: ashesh.jpg
+avatar: ashesh.JPG
 twitter:
 joined: 2012
 ---
