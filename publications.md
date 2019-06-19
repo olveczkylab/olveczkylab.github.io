@@ -16,7 +16,7 @@ Roberts TF, Gobes SM, Murugan M, BP Olveczky\*, Mooney R\*<br>
 Nat Neurosci, 2012 ([Article](http://www.google.com/)) ([Code](http://www.google.com/)) ([Opinion](http://www.google.com/))
 
 
-_Motor circuits are required to encode a sensory model for imitative learning_<br>
+_something else_<br>
 Roberts TF,\*, Gobes SM\*, Murugan M\*, BP Olveczky\*, Mooney R<br>
 Nat Neurosci, 2012 ([Article](http://www.google.com/)) ([Code](http://www.google.com/)) ([Opinion](http://www.google.com/))
 
