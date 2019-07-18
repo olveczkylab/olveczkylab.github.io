@@ -1,7 +1,7 @@
 ---
 name: Kevin Mizes
 position: student
-avatar: rat.jpg
+avatar: kevin.jpg
 twitter:
 joined: 2016
 ---
