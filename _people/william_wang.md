@@ -1,7 +1,7 @@
 ---
 name: William Wang
 position: others
-avatar: rat.jpg
+avatar: william.JPG
 twitter:
 joined: 2018
 ---
