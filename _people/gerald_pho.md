@@ -1,7 +1,7 @@
 ---
 name: Gerald Pho
 position: postdoc
-avatar: gerald.jpg
+avatar: gerald.JPG
 twitter:
 joined: 2017
 ---
