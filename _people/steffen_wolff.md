@@ -1,7 +1,7 @@
 ---
 name: Steffen Wolff
 position: postdoc
-avatar: rat.jpg
+avatar: steffen.JPG
 twitter:
 joined: 2016
 ---
