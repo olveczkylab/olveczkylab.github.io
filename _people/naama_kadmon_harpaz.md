@@ -1,7 +1,7 @@
 ---
 name: Naama Kadmon Harpaz
 position: postdoc
-avatar: rat.jpg
+avatar: naama.JPG
 twitter:
 joined: 2018
 ---
