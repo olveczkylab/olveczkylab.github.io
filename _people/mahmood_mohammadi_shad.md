@@ -1,7 +1,7 @@
 ---
 name: Mahmood Mohammadi Shad
 position: others
-avatar: mahmood.jpg
+avatar: mahmood.JPG
 twitter:
 joined: 2017
 ---
