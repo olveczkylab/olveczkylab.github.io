@@ -1,7 +1,7 @@
 ---
 name: Jesse Marshall
 position: postdoc
-avatar: rat.jpg
+avatar: jesse.JPG
 twitter:
 joined: 2016
 ---
