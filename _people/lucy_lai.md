@@ -1,7 +1,7 @@
 ---
 name: Lucy Lai
 position: student
-avatar: rat.jpg
+avatar: lucy.JPG
 twitter:
 joined: 2019
 ---
