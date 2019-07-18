@@ -1,7 +1,7 @@
 ---
 name: Sasha Iuleu
 position: others
-avatar: rat.jpg
+avatar: sasha.JPG
 twitter:
 joined: 2016
 ---
