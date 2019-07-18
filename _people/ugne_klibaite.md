@@ -1,7 +1,7 @@
 ---
 name: Ugne Klibaite
 position: postdoc
-avatar: rat.JPG
+avatar: rat.jpg
 twitter:
 joined: 2019
 ---
