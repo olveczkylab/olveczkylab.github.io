@@ -1,7 +1,7 @@
 ---
 name: Bence Olveczky
 position: pi
-avatar: rat.jpg
+avatar: bence.jpg
 twitter: BOlveczky
 ---
 
