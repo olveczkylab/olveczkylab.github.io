@@ -1,7 +1,7 @@
 ---
 name: Pawel Zmarz
 position: postdoc
-avatar: rat.jpg
+avatar: pawel.JPG
 twitter:
 joined: 2017
 ---
