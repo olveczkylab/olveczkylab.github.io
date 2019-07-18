@@ -10,7 +10,7 @@ joined: 2019
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `ashesh.dhawale@gmail.com`<br>
+<i class="fa fa-envelope-o"></i>  `name@gmail.com`<br>
 <i class="fa fa-external-link"></i>
 [[Website]](google.com)
 [[Scholar]](https://scholar.google.com/citations?user=gb2zS_IAAAAJ&hl=en)
