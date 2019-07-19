@@ -12,7 +12,7 @@ joined: 2019
 
 <i class="fa fa-envelope-o"></i>  `lucylai@g.harvard.edu`<br>
 <i class="fa fa-external-link"></i>
-[[Website]](www.lucy-lai.com)
+[[Website]](https://lucy-lai.com)
 [[GitHub]](https://github.com/lucylai96/)
 [[CV]](http://lucy-lai.com/lai_cv.pdf)
 
