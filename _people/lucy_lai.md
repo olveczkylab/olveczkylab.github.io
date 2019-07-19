@@ -10,7 +10,7 @@ joined: 2019
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `default@gmail.com`<br>
+<i class="fa fa-envelope-o"></i>  `lucylai@g.harvard.edu`<br>
 <i class="fa fa-external-link"></i>
 [[Website]](www.lucy-lai.com)
 [[GitHub]](https://github.com/lucylai96/)
