@@ -20,7 +20,7 @@ joined: 2019
 
 ### Bio
 
-Lucy is a graduate student in the Neuroscience program, joint with Sam Gershman. She graduated from Rice University in 2018, where she studied cognitive science and applied math. She likes classical music, coffee, running, and writing. She also convinced Bence to let her redesign the lab website (template credit to [Kording Lab](https://kordinglab.com))
+Lucy is a graduate student in the Neuroscience program, joint with Sam Gershman. She graduated from Rice University in 2018, where she studied cognitive science and applied math. She likes classical music, coffee, running, and writing. She also convinced Bence to let her redesign the lab website (template credit to [Kording Lab](https://kordinglab.com)).
 
 <hr>
 
