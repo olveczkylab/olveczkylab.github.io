@@ -2,7 +2,7 @@
 name: Lucy Lai
 position: student
 avatar: lucy.JPG
-twitter:
+twitter: lucylai_
 joined: 2019
 ---
 
