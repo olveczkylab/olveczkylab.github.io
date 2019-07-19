@@ -12,14 +12,15 @@ joined: 2019
 
 <i class="fa fa-envelope-o"></i>  `default@gmail.com`<br>
 <i class="fa fa-external-link"></i>
-[[Website]](google.com)
-[[Scholar]](https://scholar.google.com/)
-[[CV]](https://www.dropbox.com/)
+[[Website]](www.lucy-lai.com)
+[[GitHub]](https://github.com/lucylai96/)
+[[CV]](http://lucy-lai.com/lai_cv.pdf)
 
 <hr>
 
 ### Bio
 
+Lucy is a
 
 <hr>
 
