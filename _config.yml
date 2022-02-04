@@ -22,6 +22,8 @@ nav:
     href:           "/research"
   - name:           "projects"
     href:           "/projects"
+  - name:           "techniques"
+    href:           "/techniques"
   - name:           "people"
     href:           "/people"
   - name:           "publications"
