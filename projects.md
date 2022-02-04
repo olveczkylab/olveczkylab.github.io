@@ -10,7 +10,9 @@ We have several ongoing projects, a sample of which are below. Please also consu
 We are interested in understanding how the mammalian brain learns new skills. To this end we design specific tasks for our rats that probe specific aspects of motor skill learning, allowing us to investigate how they are implemented in neural circuitry.
 
 ### The acqusition and control of stereotyped task-specific movement patterns 
-We have designed a timed lever-pressing task for rats that rewrads them for pressing a lever in a temporally precise sequence. Over weeks of trial and error learning, rats develop highly stereotyped movement patterns equal to the task (see videos below). We are interested in understanding the neural circuits underlying the acqusition and control of such task-specific movenment patterns. 
+We have designed a timed lever-pressing task for rats that rewards them for pressing a lever in a temporally precise sequence. Over weeks of trial and error learning, rats develop highly stereotyped movement patterns equal to the task (see videos below). We are interested in understanding the neural circuits underlying the acqusition and control of such task-specific movenment patterns. 
+
+ <img src="/images/people/MAIN_talk.wmv" />
 
 Relevant papers:
 
