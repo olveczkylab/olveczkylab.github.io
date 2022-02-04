@@ -12,7 +12,8 @@ We are interested in understanding how the mammalian brain learns new skills. To
 ### The acqusition and control of stereotyped task-specific movement patterns 
 We have designed a timed lever-pressing task for rats that rewards them for pressing a lever in a temporally precise sequence. Over weeks of trial and error learning, rats develop highly stereotyped movement patterns equal to the task (see videos below). We are interested in understanding the neural circuits underlying the acqusition and control of such task-specific movenment patterns. 
 
- <img src="/images/people/MAIN_talk.mp4" />
+##video
+https://www.dropbox.com/s/j8p0n1x94qix7y9/2015-07-26%2015.30.20.mov?dl=0
 
 Relevant papers:
 
