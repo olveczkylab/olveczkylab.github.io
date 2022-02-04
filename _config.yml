@@ -20,6 +20,8 @@ highlighter:        rouge
 nav:
   - name:           "research"
     href:           "/research"
+  - name:           "projects"
+    href:           "/projects"
   - name:           "people"
     href:           "/people"
   - name:           "publications"
