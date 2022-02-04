@@ -5,6 +5,7 @@ permalink: /contact/
 <br/><br/>
 ### **If you are interested in joining the lab**
 
+
 ## Students
 Given the interdisciplinary work in the lab, qualified students from a variety of backgrounds (neuroscience, biology, mathematics, physics, computer science, and engineering) are encouraged to apply. The lab accepts students from a variety of different PhD programs (OEB, Biophysics, Neuroscience, Engineering, MCB, etc). Applicants interested in joining the lab through please contact [Bence](olveczky@fas.harvard.edu) to discuss projects and possibilities in the lab. 
 
