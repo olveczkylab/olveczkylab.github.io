@@ -3,13 +3,17 @@ title: Projects
 permalink: /projects/
 ---
 
-For a comprehensive overview of publications, see [Bence's Google Scholar](https://scholar.google.com/citations?user=SCaewXUAAAAJ&hl=en).
+We have several ongoing projects, a sample of which are below. Please also consult our [recent publications](https://scholar.google.com/citations?user=SCaewXUAAAAJ&hl=en) to get a better sense. 
 
-Below are the links to all our papers.
 
-<hr>
+## Neural circuit underlying motor skill learning and execution. 
+We are interested in understanding how the mammalian brain learns new skills. To this end we design specific tasks for our rats, and interrogate the underlying circuits. Examples of task include. 
 
-### 2012
+### Time lever-pressing.
+This task trains rats to press a lever in a temporally precise sequence. Over weeks of trial and error learning, rats develop highly stereotyped movement patterns equal to the task (see videos below). We are interested in understanding the neural circuits underlying the acqusition and control of such task-specific movenment patterns. 
+
+
+
 
 _Motor circuits are required to encode a sensory model for imitative learning_<br>
 Roberts TF, Gobes SM, Murugan M, BP Olveczky\*, Mooney R\*<br>
