@@ -28,8 +28,6 @@ nav:
     href:           "/people"
   - name:           "publications"
     href:           "/publication"
-  - name:           "resources"
-    href:           "/resources"
   - name:           "contact"
     href:           "/contact"
 
