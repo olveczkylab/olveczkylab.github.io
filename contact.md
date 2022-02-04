@@ -13,4 +13,4 @@ Given the interdisciplinary work in the lab, qualified students from a variety o
 Post-doc positions are available for motivated applicants with a strong interest in systems neuroscience. Contact [Bence](mailto:olveczky@fas.harvard.edu) to inquire.
 
 ## Support staff
-We currently have openings for a technician position. In this position, you will support ongoing research projects and help develop new technologies. Candidates with a background or interest in biomedical engineering, electronics, physics, neuroscience are encouraged to apply by sending a CV to [Bence](mailto:olveczky@fas.harvard.edu). 
+We currently have an opening for a technician. In this position, you will support ongoing research projects and help develop new technologies. Candidates with a background or interest in biomedical engineering, electronics, physics or neuroscience are encouraged to apply by sending a CV to [Bence](mailto:olveczky@fas.harvard.edu). 
