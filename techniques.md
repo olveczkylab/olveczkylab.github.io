@@ -1,5 +1,5 @@
 ---
-title: Techniqyes
+title: Techniques
 permalink: /techniques/
 ---
 
