@@ -7,9 +7,9 @@ We have several ongoing projects, a sample of which are below. Please also consu
 
 
 ## Neural circuit underlying motor skill learning and execution. 
-We are interested in understanding how the mammalian brain learns new skills. To this end we design specific tasks for our rats, and interrogate the underlying circuits. Examples of task include. 
+We are interested in understanding how the mammalian brain learns new skills. To this end we design specific tasks for our rats that allow us to interrogate specific aspects of motor skill learning and how they are implemented in neural circuitry.
 
-### Time lever-pressing.
+### Precisely timed lever-pressing.
 This task trains rats to press a lever in a temporally precise sequence. Over weeks of trial and error learning, rats develop highly stereotyped movement patterns equal to the task (see videos below). We are interested in understanding the neural circuits underlying the acqusition and control of such task-specific movenment patterns. 
 
 
